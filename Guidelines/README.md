@@ -8,7 +8,7 @@ Please review this [checklist](/onboarding/README.md) before you join the progra
 
 ## One on One mentorship
 
-As soon as you join our program, you'll be assigned a mentor who will be responsible for helping you learn and grow throughout the course. Mentors and not trainers and will NOT train you but guide you in the right direction and make sure you stay there through the course. You'll be reporting to this person and will need to keep him or her in loop every week. 
+As soon as you join our program, you'll be assigned a mentor who will be responsible for helping you learn and grow throughout the course. Mentors are not trainers and will *NOT* train you but guide you in the right direction and make sure you stay there through the course. You'll be reporting to this person and will need to keep him or her in loop every week. 
 
 ## Course Structure
 
